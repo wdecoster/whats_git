@@ -36,3 +36,8 @@ There are many many tutorials:
 - https://www.codecademy.com/learn/learn-git
 - https://www.youtube.com/watch?v=Uk5TnFL7jh4
 - https://www.youtube.com/watch?v=b4zp02iULYY
+
+
+Tips:
+- You can host a personal/lab webpage through GitHub Pages: https://pages.github.com/
+- You can automatically test your software using GitHub Actions: https://github.com/features/actions
