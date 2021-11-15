@@ -34,8 +34,10 @@ There are many options and commands to use with git, but you just need to know a
 There are many many tutorials:
 - https://guides.github.com/activities/hello-world/
 - https://www.codecademy.com/learn/learn-git
-- https://www.youtube.com/watch?v=Uk5TnFL7jh4
-- https://www.youtube.com/watch?v=b4zp02iULYY
+- An easily digestible youtube series from EngineerMan
+ - https://www.youtube.com/watch?v=Uk5TnFL7jh4
+ - https://www.youtube.com/watch?v=b4zp02iULYY
+ - https://www.youtube.com/watch?v=NkIAMP8uTik
 
 
 Tips:
